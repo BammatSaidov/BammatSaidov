@@ -8,7 +8,7 @@ I started my journey with learning python but now I'm trying to study AI coding.
 
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [saidov1143@gmail.com](mailto:saidov1143@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and AI
 
 ### Skills
 
